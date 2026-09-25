@@ -4,6 +4,8 @@ A simple Streamlit web app that uses the **Groq API** to turn a rough descriptio
 
 Built as a beginner-friendly project: tested in Google Colab, deployed on Streamlit Community Cloud.
 
+🔗 **Live app:** https://syedharishussainshah-ai-email-writer.streamlit.app
+
 ## How it works
 
 1. You type what you want to say (e.g. *"ask my manager for Friday off"*).
